@@ -1,0 +1,22 @@
+{
+  "name": "light-switch-be-gone",
+  "version": "0.0.0",
+  "description": "Ninja Blocks driver aiming to make light switches a thing of the past",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatguydan/ninja-light-switch-be-gone.git"
+  },
+  "keywords": [
+    "Ninja",
+    "Blocks",
+    "Driver",
+    "Light",
+    "Switch"
+  ],
+  "author": "Daniel Friedman",
+  "license": "MIT"
+}
